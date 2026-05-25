@@ -14,13 +14,21 @@ This project performs basic arithmetic operations and is deployed publicly on cl
 ## 📌 Features
 
 ✅ Addition
+
 ✅ Subtraction
+
 ✅ Multiplication
+
 ✅ Division
+
 ✅ Percentage calculation
+
 ✅ Backspace delete functionality
+
 ✅ Modern responsive UI
+
 ✅ Flask backend API integration
+
 ✅ Public cloud deployment
 
 ---
